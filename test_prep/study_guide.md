@@ -11,7 +11,6 @@
 ### When can you pass a block to a method
 ### &:symbol (Symbol#to_proc, etc..)
 
-
 ## Testing With Minitest
 ### Testing Terminology
 ### Minitest vs. Rspec
@@ -22,15 +21,15 @@
 ### Purpose of core tools
 ### Gemfiles
 
-
 ## Regular Expressions
 ### Basic matching
 
 
 - [X] Re-read Lesson 1 and take detailed notes
 - [X] Re-read Lesson 2 and take detailed notes
-- [ ] Re-read Lesson 3 and take detailed notes
-- [ ] Re-read Regex Intro Book and take detailed notes
+- [X] Re-read Lesson 3 and take detailed notes
+- [X] Re-read Regex Intro Book and take detailed notes
+- [X] Watch Regex series on Youtube
 - [ ] Write an explanation for all items under 'Blocks'
 - [ ] Write an explanation for all items under 'Testing'
 - [ ] Practice writing tests on completed OOP Problems
